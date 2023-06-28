@@ -1,0 +1,23 @@
+#custom-bg {
+  background-image: url('https://www.globalgarden.co/wp-content/uploads/2022/06/bacteria-extract-nutrients-from-many-sources.jpg');
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#text {
+  font-weight: bold;
+  font-size: large;
+}
+
+.col-md-12.jumbotron.text-center {
+  background-image: url('https://www.costhetics.com.au/wp-content/uploads/2012/08/belly_button_reshaping.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: black;
+}
